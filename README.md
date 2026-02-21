@@ -1,4 +1,5 @@
 ReviseRight — AI-Powered Flashcard & Revision App
+
 📌 Overview
 
 ReviseRight is a full-stack AI-powered mobile flashcard and revision application with an integrated multi-language code compiler. It helps students revise faster using AI-generated flashcards, spaced repetition, and simplified study notes.
