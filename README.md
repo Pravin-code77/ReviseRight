@@ -51,10 +51,14 @@ ReviseRight/
 │── client/        # React Native (Expo) mobile app
 │── server/        # Node.js / Express backend
 │── README.md
+
 ⚙️ Installation & Setup
+
 1️⃣ Clone the repository
+
 git clone https://github.com/Pravin-code77/ReviseRight.git
 cd ReviseRight
+
 2️⃣ Setup Backend
 cd server
 npm install
