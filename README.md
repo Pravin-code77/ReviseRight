@@ -49,7 +49,9 @@ Piston Code Execution API
 📂 Project Structure
 ReviseRight/
 │── client/        # React Native (Expo) mobile app
+
 │── server/        # Node.js / Express backend
+
 │── README.md
 
 ⚙️ Installation & Setup
