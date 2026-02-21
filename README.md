@@ -98,7 +98,7 @@ Web version
 
 👨‍💻 Author
 
-Pravin Chormale
+Pravin Choramale
 Full-Stack / Mobile Developer
 
 📄 License
