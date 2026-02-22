@@ -5,9 +5,9 @@ backend/node_modules/
 
 # Environment Variables
 .env
-backend/.env
-frontend/.env
 
+frontend/.env
+backend/.env
 # Expo / Mobile Build
 .expo/
 frontend/.expo/
